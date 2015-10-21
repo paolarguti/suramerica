@@ -1066,3 +1066,6 @@ h2,h3 {
 page-break-after:avoid;
 }
 }
+#site-head {
+  background-image: url(/images/new-cover.jpg)!important;
+}
